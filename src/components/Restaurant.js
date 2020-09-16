@@ -11,7 +11,7 @@ function Restaurant(props){
                                 <div>
                                     <h3>{val.name}</h3>
                                     <p>{val.address}</p>
-                                    <p>{val.opening_times}</p>
+                                    <p>{val.opening_time}</p>
                                 </div>
                             </Link>
                     })

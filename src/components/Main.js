@@ -20,11 +20,11 @@ class Main extends React.Component{
     }
 
     getSearch(searchTerm){
-        const url = 'http://restaurant-api-module-2.herokuapp.com/api/restaurant'
+        const url = 'http://restaurant-api-module-2.herokuapp.com/api/restaurants'
         const proxyUrl = 'https://cors-anywhere.herokuapp.com/'
         fetch(proxyUrl + url).then(response => response.json()).then(data => {
             this.setState({
-                restaurant: data['data']
+                restaurant: data['data']['name']
             });
         }).catch(err => {
             console.log("Can't access" + url);

@@ -16,12 +16,12 @@ function App() {
         <Header/>
 
         <Switch>
-          <Route path='/'>
-            <Main/>
-          </Route>
-
           <Route path='/detail/:_id'>
             <Detail/>
+          </Route>
+
+          <Route path='/'>
+            <Main/>
           </Route>
         </Switch>
 
