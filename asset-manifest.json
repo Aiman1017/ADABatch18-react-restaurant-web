@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ADABatch18-react-restaurant-web/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ADABatch18-react-restaurant-web/static/js/main.0e714916.chunk.js",
+    "main.js.map": "/ADABatch18-react-restaurant-web/static/js/main.0e714916.chunk.js.map",
+    "runtime-main.js": "/ADABatch18-react-restaurant-web/static/js/runtime-main.bfa369d1.js",
+    "runtime-main.js.map": "/ADABatch18-react-restaurant-web/static/js/runtime-main.bfa369d1.js.map",
+    "static/js/2.27293a32.chunk.js": "/ADABatch18-react-restaurant-web/static/js/2.27293a32.chunk.js",
+    "static/js/2.27293a32.chunk.js.map": "/ADABatch18-react-restaurant-web/static/js/2.27293a32.chunk.js.map",
+    "index.html": "/ADABatch18-react-restaurant-web/index.html",
+    "precache-manifest.3275588deb67a4caa5fcd6b1485cc5ff.js": "/ADABatch18-react-restaurant-web/precache-manifest.3275588deb67a4caa5fcd6b1485cc5ff.js",
+    "service-worker.js": "/ADABatch18-react-restaurant-web/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ADABatch18-react-restaurant-web/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.27293a32.chunk.js.LICENSE.txt": "/ADABatch18-react-restaurant-web/static/js/2.27293a32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfa369d1.js",
+    "static/js/2.27293a32.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0e714916.chunk.js"
+  ]
+}
